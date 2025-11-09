@@ -17,7 +17,7 @@ El proyecto documenta la instalación, configuración y uso de Icinga para monit
 
 Puedes consultar el documento completo en formato PDF aquí:
 
-👉 [Ver proyecto PDF](proyecto.pdf)
+👉 [Ver proyecto PDF](ICINGA_PROYECT.pdf)
 
 ## 🛠️ Tecnologías utilizadas
 
